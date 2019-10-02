@@ -23,3 +23,7 @@ Replace file /images/logo.jpg
 ## Demo/Демо
 
 https://f.vvm.space
+
+## License: GPLv2
+
+Free for usage. Copyrights required.
