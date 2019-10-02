@@ -1,5 +1,5 @@
-const BF = new Vue({
-    el: '#BF',
+const F = new Vue({
+    el: '#F',
     data: {
         countdown: 5,
         redirect_url: 'https://youtu.be/itFnr-M-MAU?t=20'
